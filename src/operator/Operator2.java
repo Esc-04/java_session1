@@ -13,5 +13,6 @@ public class Operator2 {
         int a = 6;
         String result2 = str3 + a;
         System.out.println(result2);
+
     }
 }

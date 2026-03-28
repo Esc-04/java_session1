@@ -11,5 +11,6 @@ public class Operator4 {
         int d = 2;
         d = d + c++;
         System.out.println("c: " + c + ", d: " + d);
+
     }
 }

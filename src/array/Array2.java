@@ -4,7 +4,6 @@ public class Array2 {
     public static void main(String[] args) {
         int[] scores; //배열 선언
         scores = new int[5]; //배열 생성
-
         scores[0] = 10; //배열 초기화
         scores[1] = 20;
         scores[2] = 30;
